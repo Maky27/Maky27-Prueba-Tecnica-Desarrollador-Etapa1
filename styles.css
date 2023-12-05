@@ -1,0 +1,23 @@
+body {
+  font-family: 'Kanit', sans-serif;
+  margin: 20px;
+}
+table {
+  background-color: silver;
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 10%;
+}
+h1 {
+  text-align: center;
+} 
+th {
+  background-color: gray;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  border-color: black;
+  border-width: 5px;
+}
